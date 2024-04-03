@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Agenda>
+    <Contacto id="1">
+        <Nombre>Alvaro</Nombre>
+        <Numero>650098323</Numero>
+    </Contacto>
+    <Contacto id="2">
+        <Nombre>Raul</Nombre>
+        <Numero>324234123</Numero>
+    </Contacto>
+</Agenda>
